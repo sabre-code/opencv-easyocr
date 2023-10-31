@@ -1,1 +1,1 @@
-"# opencv-easyocr" 
+# opencv-easyocr 
